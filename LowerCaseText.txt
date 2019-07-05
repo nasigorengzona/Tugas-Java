@@ -1,0 +1,10 @@
+    
+xxxxxx test 123
+Bye world
+Morning
+Evening
+yyyyy
+new string 
+new text
+menjadi  besar
+lakukan uppercase
